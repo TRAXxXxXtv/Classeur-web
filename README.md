@@ -31,9 +31,6 @@ Ce projet est un template de classeur web pour un projet de cours. Il permet d'a
 
 ## Liens Utiles
 
-- [Pronote](https://auth.monlycee.net/cas/clientredirect?client_name=keycloak-idf&service=https%3A%2F%2F0951756T.index-education.net%2Fpronote%2F)
-- [Mon Lycée](https://psn.monlycee.net)
-- [ELEA](https://cergy.elea.ac-versailles.fr/login/index.php)
 - [Linktree](https://linktr.ee/tris.rav)
 
 ## Contact
